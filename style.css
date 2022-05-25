@@ -1,0 +1,11 @@
+.container {
+    width: 500px;
+}
+
+.page-header {
+    text-align: center;
+}
+
+#resultado {
+    color: red;
+}
