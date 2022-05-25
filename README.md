@@ -1,4 +1,4 @@
-# Formas de um triângulo
+# Formas de um Triângulo
 
 
 # 🏁 Tópicos
