@@ -1,4 +1,4 @@
-# Formas de um triângulo
+# Formas de um Triângulo
 
 
 ### Verificando através de valores as formas do triângulo
@@ -52,6 +52,8 @@ ______________________________________________________________
 - `3 ` Verificar se um triângulo é: ESCALENO. ✔️
 ______________________________________________________________
 ## 🚀 Demonstração 
+
+### [Projeto](https://alinealmeida85.github.io/Formas-de-um-triangulo/)
 
 > 🚧 Em construção 🚧
 
