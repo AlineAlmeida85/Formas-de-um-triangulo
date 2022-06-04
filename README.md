@@ -1,69 +1,110 @@
 # Formas de um triângulo
 
 
-# 🏁 Tópicos
+### Verificando através de valores as formas do triângulo
 
- * 👉 Banner
- * 👉 Título e Descrição
- * 👉 Status do Projeto
- * 👉 Funcionalidades
- * 👉 Demonstração da aplicação
- * 👉 Pré-requisitos
- * 👉 Tecnologias utilizadas
- * 👉 Autor
- * 👉 Licença
+## 🏁 Tópicos
  
- ____________________________________________________________
-# ✅ Banner 👌
+  * 👉 [Banner](#📷-banner)
+  * 👉 [Título](#📌-título)
+  * 👉 [Descrição](#✒️-descrição)
+  * 👉 [Status](#⏱️-status)
+  * 👉 [Funcionalidades](#🔨-funcionalidades-🛠️)
+  * 👉 [Demonstração](#🚀-demonstração)
+  * 👉 [Pré-requisitos](#📋-pré-requisitos)
+  * 👉 [Tecnologias utilizadas](#⚙️-tecnologias-utilizadas)
+  * 👉 [Acesso ao Projeto](#📁-acesso-ao-projeto)
+  * 👉 [Pessoas Contribuidoras](#🖇️-pessoas-contribuidoras-🤝)
+  * 👉 [Autor](#🏆-autor)
+  * 👉 [Licença](#🙏-licença-🔖) 
+  * 👉 [Conclusão](#📚-conclusão)
+ 
+______________________________________________________________
 
-<h1 align="center">
-  <img alt="banner" title="#banner" src="banner.png"style/>
-</h1>
+## 📷 Banner
+  <p align="center">
+    <img alt="foto do projeto" title="foto do projeto" src="banner.png"/>
+  </p>
 
-# ✅ Título e Descrição 👌
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-### Formas de um triângulo
+______________________________________________________________
 
-#### Verificar através de valores inseridos pelo usuário se um triângulo é EQUILÁTERO, ISÓSCELES ou ESCALENO. 
+## 📌 Título
 
-# ✅ Status do Projeto 👌
+#### Formas de um triângulo
 
-### 🚧 Projeto 🚀 **Concluído com Sucesso!!!** 👌 🚧
+______________________________________________________________
+## ✒️ Descrição
 
-# ✅ Funcionalidades 👌
+#### Verificar através de valores inseridos pelo usuário se um triângulo é EQUILÁTERO, ISÓSCELES ou ESCALENO.
 
-### - [x] Verificar se um triângulo é: EQUILÁTERO.
-### - [x] Verificar se um triângulo é: ISÓSCELES.
-### - [x] Verificar se um triângulo é: ESCALENO.
+______________________________________________________________
+## ⏱️ Status
 
-# ✅ Demonstração da aplicação 👌
+>  🚀 Projeto Concluído com Sucesso!!! 👌 🚧
 
-### GitHub AlineAlmeida85
+______________________________________________________________
+## 🔨 Funcionalidades 🛠️
 
-### Link: [Projeto]()
+- `1 ` Verificar se um triângulo é: EQUILÁTERO. ✔️
+- `2 ` Verificar se um triângulo é: ISÓSCELES. ✔️
+- `3 ` Verificar se um triângulo é: ESCALENO. ✔️
+______________________________________________________________
+## 🚀 Demonstração 
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="banner.png" style/>
-</h1>
+> 🚧 Em construção 🚧
 
-# ✅ Pré-requisitos 👌
+______________________________________________________________
+## 📋 Pré-requisitos 
 
-### Nenhum, basta clicar no link acima
+- ✔️ Nenhum
 
-# ✅ Tecnologias utilizadas ⚒️ 👌
-
-### As seguintes tecnologias foram usadas na construção do projeto:
+______________________________________________________________
+## ⚙️ Tecnologias utilizadas
 
 - [HTML](https://pt.wikipedia.org/wiki/HTML)
 - [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [JavaScript](https://www.javascript.com/)
 
-# ✅ Autor 👌
+______________________________________________________________
+## 📁 Acesso ao Projeto 
 
-### Aline Almeida 💝
+### [Projeto](https://alinealmeida85.github.io/Formas-de-um-triangulo/)
 
-# ✅ Licença
+______________________________________________________________
+## 🖇️ Pessoas Contribuidoras 🤝
+[<img src="https://avatars.githubusercontent.com/u/99259131?v=4" width=115><br><sub>Aline Melissa Andrade de Almeida</sub>](https://github.com/AlineAlmeida85) 
 
-### Não Possui
+______________________________________________________________
+## 🏆 Autor 
+<div align="center">
 
-#### Espero que te agrade! ❤️
+  [<img src="https://avatars.githubusercontent.com/u/99259131?v=4" width=115 style=border-radius:50%><br><sub>Aline Almeida 💝</sub>](https://github.com/AlineAlmeida85) 
+
+</div>
+
+______________________________________________________________
+## 🙏 Licença 🔖
+
+#### Não Possui
+______________________________________________________________
+## 📚 Conclusão 
+
+______________________________________________________________
+
+⌨️ com ❤️ por [Aline Almeida](https://github.com/AlineAlmeida85) 😊
+
+Espero que te agrade! 
+
+
+
+
+
+
+
+
+
+
+
+
